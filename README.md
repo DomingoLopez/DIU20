@@ -10,8 +10,8 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Domingo López Pacheco     :octocat: [DomingoLopez](https://www.github.com/DomingoLopez/)
+ * :bust_in_silhouette:   Manuel Pancorbo Catro     :octocat: [manuelpcastro](https://www.github.com/manuelpcastro/)
 
 ----- 
 
