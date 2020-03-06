@@ -42,7 +42,7 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 1 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
 				], 
-				Goals: ["Ahorrar lo suficiente para crear su propia tienda de Motociclismo", "Establecer una familia"],
+				Goals: ["Ahorrar lo suficiente para crear su propia tienda de Motociclismo", "Encontrar una pareja estable"],
 				Frustrations: ["Odia la congestión de la ciudad.", "Le gustaría disponer de más tiempo libre para poder pasear con su Moto"],
 				Bio: "Nació en Madrid pero se vino a Granada por el buen clima y sus gentes. Empezó a trabajar en una inmobiliaria como comercial y ya lleva 10 años dedicado a ello. Su círculo de amigos es discreto, a pesar de ser una persona muy extrovertida debido a su trabajo. Intenta abstraerse de las preocupaciones gracias a la lectura de Ciencia Ficción y su pasión por las Motos",
 				Tech: [
