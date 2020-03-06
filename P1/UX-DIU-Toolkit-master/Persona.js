@@ -28,7 +28,7 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "EdWard Kim",
+				Name: "Jose Antonio Carrasco",
 				Photo: "EdWardKim.jpg",
 				Quote: "La vida es maravillosa si sabes aprovecharla",
 				Age: 45,
@@ -37,26 +37,26 @@ angular.module("angular", [])
 				Location: "Granada (Guadix)",
 				Character: "Su pasión es el Motociclismo",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 5 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 1 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
 				], 
-				Goals: ["Disfrutar del tiempo libre, viajar", "Cambiar a un trabajo más estable"],
-				Frustrations: ["le gusta la tecnología, pero siempre 'llama a un amigo' para resolver problemas", "Le gustaría tener más tiempo libre y leer más"],
-				Bio: "Es de Modril y vino a Granada para estudiar administración de empresas, pero no ha tenido grandes oportunidades de trabajo. LLeva 2 años contratado en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y normalmente ser reunen para fiestas y a veces organizan viajes",
+				Goals: ["Ahorrar lo suficiente para crear su propia tienda de Motociclismo", "Establecer una familia"],
+				Frustrations: ["Odia la congestión de la ciudad.", "Le gustaría disponer de más tiempo libre para poder pasear con su Moto"],
+				Bio: "Nació en Madrid pero se vino a Granada por el buen clima y sus gentes. Empezó a trabajar en una inmobiliaria como comercial y ya lleva 10 años dedicado a ello. Su círculo de amigos es discreto, a pesar de ser una persona muy extrovertida debido a su trabajo. Intenta abstraerse de las preocupaciones gracias a la lectura de Ciencia Ficción y su pasión por las Motos",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 2 },
-					{ Name: "Movil", Value: 2 },
-					{ Name: "RRSS", Value: 3 },
+					{ Name: "TIC/Internet", Value: 3 },
+					{ Name: "Movil", Value: 3 },
+					{ Name: "RRSS", Value: 1 },
 					{ Name: "Software", Value: 2 }
 					
 				], 
-                Contextos: "LLeva un tiempo preocupado y quiere desconectar Le gustaría dar una sorpresa a sus amigos para las vacaciones",  
+                Contextos: "Lleva tiempo pensando en dejar el trabajo para montar su propia tienda de Motocicletas, pero aún le queda por ahorrar un poco. Además, el pensar en ser dueño de su propia empresa le produce estrés, pero es algo que sabe que su mente y cuerpo necesitan para tener éxito en lo que desempeñe.",  
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 5 },
+					{ Name: "Publicidad Tradicional", Value: 4 },
 					{ Name: "Online & Social Media", Value: 3 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
+					{ Name: "Recomendaciones & sugerencias", Value: 4 },
 					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
 				]
 			},
@@ -69,36 +69,36 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
-				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Name: "Luis Fernandez",
+				Photo: "p1.jpg",
+				Quote: "Believe in yourself",
+				Age: 23,
+				Occupation: "Estudiante de Geologia y dependiente de una tienda de ropa",
+				Family: "Con pareja desde hace 3 años",
+				Location: "Madrid",
+				Character: "Le gusta aprovechar el tiempo y priorizar sus tareas",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 8 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 5 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 7 }
 				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Trabajar de lo que le gusta", "Pasar mas tiempo con su pareja", "Independizarse"],
+				Frustrations: ["Los clientes de la tienda no suelen ser lo amables que él quisiera", "Tendra que hacer unas oposiciones para poder ser profesor y no está seguro de ser capaz de conseguirlo"],
+				Bio: "Trabaja para poder costearse sus gastos. Vive con sus padres. Lleva un año contratado en la tienda. Conoció a su grupo de amigos en la universidad",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
-					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "TIC/Internet", Value: 2 },
+					{ Name: "Movil", Value: 4 },
+					{ Name: "RRSS", Value: 4 },
+					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos: "Busca un par de lugares para poder hacer un viaje con sus amigos y otro con su pareja",  
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
-					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Publicidad Tradicional", Value: 2 },
+					{ Name: "Online & Social Media", Value: 4 },
+					{ Name: "Recomendaciones & sugerencias", Value: 3 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 5 }
 				]
 			}
 		];
