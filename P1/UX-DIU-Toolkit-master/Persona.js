@@ -28,14 +28,14 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Juan Lopez",
-				Photo: "man.png",
-				Quote: "Carpe Diem",
-				Age: 32,
-				Occupation: "Comercial en empresa de automocion",
-				Family: "Con pareja desde hace 1 año",
-				Location: "Granada (Huetor Vega)",
-				Character: "Le gusta disfrutar del tiempo",
+				Name: "EdWard Kim",
+				Photo: "EdWardKim.jpg",
+				Quote: "La vida es maravillosa si sabes aprovecharla",
+				Age: 45,
+				Occupation: "Comercial Inmobiliario",
+				Family: "Soltero",
+				Location: "Granada (Guadix)",
+				Character: "Su pasión es el Motociclismo",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
