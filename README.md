@@ -62,9 +62,9 @@ Revisión de Usabilidad: HABITOOM
  - Valoración final: 60 - Moderate
  - Comentario sobre la valoración:
 
-	Nos encontramos ante una Web de alquiler de pisos compartidos (Habitaciones) en el contexto de *Economía colaborativa*. La valoración numérica final obtenida en la plantilla de revisión de usabilidad deja que desear debido a varios problemas de diseño encontrados en la web, el principal de ellos debido a una sección de búsquedas y filtros muy compacta que no ayuda al usuario a entender cómo interaccionar con ella, haciendo que primero deba estudiar la web para entender dónde *clickar* y cómo llevar a cabo las búsquedas. 
+	Nos encontramos ante una Web de alquiler de pisos compartidos (Habitaciones) en el contexto de *Economía colaborativa*. La valoración numérica final obtenida en la plantilla de revisión de usabilidad deja que desear debido a varios problemas de diseño encontrados en la web, el principal de ellos debido a una sección de búsquedas y filtros muy compacta que no ayuda al usuario a entender cómo interaccionar con ella, haciendo que primero deba estudiar la web para entender dónde *clickar* y cómo llevar a cabo las búsquedas. [Ver la revisión completa...](P1/README.md)
 
-[Para ver la revisión completa...](P1/README.md)
+
 
 
 ## Paso 2. UX Design  
