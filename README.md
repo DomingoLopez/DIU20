@@ -60,12 +60,12 @@ Experiencia de Jose Antonio Carrasco: esta experiencia es bastante común cada v
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
-[Enlace al documento pdf - UsabilityReview-P1](P1/Usability-review-template-P1.pdf)
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>>> Revisión de Usabilidad: HABITOOM
+
+ - [Enlace al documento pdf - UsabilityReview-P1](P1/Usability-review-template-P1.pdf)
+ - Valoración final: 60 - Moderate
+ - Comentario sobre la valoración:
+
 
 
 ## Paso 2. UX Design  
