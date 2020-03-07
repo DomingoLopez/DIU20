@@ -1,7 +1,7 @@
 ## DIU - Practica1, entregables
 
 
-- Desk research: Análisis Competencia 
+- __Desk research: Análisis Competencia__ 
 
 Las aplicaciones o servicios seleccionados para realizar el estudio de usabilidad de esta práctica se basan en el concepto de economía colaborativa, que consiste en la puesta en común o intercambio de recursos en línea. Normalmente esto abarata los costes de los servicios que ofrece y además las interacciones son punto a punto. En estas aplicaciones el usuario es tanto demandante como ofertante. Ejemplo: BlaBlaCar, alguien oferta unas plazas en su coche y otro usuario decide comprarlas. En nuestro caso, asignado a nuestro grupo de prácticas, los servicios se enfocaban en la oferta de habitaciones/pisos para la estancia o alquiler de los mismos. 
 
