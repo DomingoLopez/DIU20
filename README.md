@@ -29,14 +29,14 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Las aplicaciones o servicios seleccionados para realizar el estudio de usabilidad de esta práctica se basan en el concepto de economía colaborativa, que consiste en la puesta en común o intercambio de recursos en línea. Normalmente esto abarata los costes de los servicios que ofrece y además las interacciones son punto a punto. En estas aplicaciones el usuario es tanto demandante como ofertante. [Para saber más...](P1/Readme.md)
+Las aplicaciones o servicios seleccionados para realizar el estudio de usabilidad de esta práctica se basan en el concepto de economía colaborativa, que consiste en la puesta en común o intercambio de recursos en línea. Normalmente esto abarata los costes de los servicios que ofrece y además las interacciones son punto a punto. En estas aplicaciones el usuario es tanto demandante como ofertante. [Para saber más...](P1/Readme.md)  
 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 Se han diseñado dos personas: 
-[Luis, de 23 años de edad, estudiante](P1/personas-journey/personaluis.png)
-[Jose Antonio, de 45 años de edad, comercial inmobiliario](P1/personas-journey/personajose.png)
+[Luis, de 23 años de edad, estudiante](P1/personas-journey/personaluis.png)  
+[Jose Antonio, de 45 años de edad, comercial inmobiliario](P1/personas-journey/personajose.png)  
 
 [Para saber historia de las personas...](P1/Readme.md)
 
@@ -47,8 +47,8 @@ Se han diseñado dos personas:
 
 Se ha diseñado un Journey Map para cada persona:
 
-[Journey Map de Luis Fernández](P1/personas-journey/journeyluis.png)
-[Journey Map de Jose Antonio Carrasco](P1/personas-journey/journeyjose.png)
+[Journey Map de Luis Fernández](P1/personas-journey/journeyluis.png)  
+[Journey Map de Jose Antonio Carrasco](P1/personas-journey/journeyjose.png)  
 
 [Para saber la experiencia de dichas personas...](P1/Readme.md)
 
