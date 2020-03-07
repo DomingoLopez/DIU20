@@ -68,7 +68,7 @@ Revisión de Usabilidad: HABITOOM
 
 	Nos encontramos ante una Web de alquiler de pisos compartidos (Habitaciones) en el contexto de *Economía colaborativa*. La valoración numérica final deja que desear debido a varios problemas de diseño encontrados en la web, el principal de ellos debido a una sección de búsquedas y filtros muy compacta que no ayuda al usuario a entender cómo interaccionar con ella, haciendo que primero deba estudiar la web para entender dónde *clickar* y cómo llevar a cabo las búsquedas. 
 Además, carece de formularios de contacto suficientes para solicitar información o ayuda, aunque dispone de una sección de *FAQs* bien elaborada pero difícil de localizar. 
-En nuestra opinión tiene mucho margen de mejora en cuanto al diseño (Principalmente el diseño en *caja* hace que la web sea muy compacta y difícilmente entendible por el usuario)
+En nuestra opinión tiene mucho margen de mejora en cuanto al diseño (Principalmente el diseño en *caja* hace que la web sea muy compacta y difícilmente entendible por el usuario, además de no ser soportada por dispositivos móviles, cosa que sólo por ello debería considerarse un craso error de accesibilidad)
 
 
 
