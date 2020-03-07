@@ -41,26 +41,26 @@ angular.module("angular", [])
                 ima1: "cartoon-PCcrying.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "El alquiler del piso donde vive le supone un gasto considerable. Decide buscar en Internet para encontrar un piso a menor precio",
-                touch2: "ordenador",
-                feel2: "3",
-                con2: "Encuentra varias webs de alquiler de pisos. Prueba en la primera que le aparece",
-                ima2: "cartoon-PCtyping.png",
+                goal2: "El alquiler del piso donde vive le supone un gasto considerable. Decide preguntar en la inmobiliaria donde trabaja si hay algún piso disponible",
+                touch2: "en persona",
+                feel2: "4",
+                con2: "Los únicos pisos que dispone la inmobiliaria son destinados a venta, no alguiler",
+                ima2: "cartoon-speaking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Usa el buscador de la web para encontrar un piso en las afueras, no le gusta la congestión del centro",
+                goal3: "Busca en internet webs de pisos compartidos. No hace una búsqueda activa, si no que entra en la primera web que encuentra",
                 touch3: "ordenador",
                 feel3: "3",
-                con3: "Está preocupado por el tiempo que tardaría en desplazarse a su trabajo",
+                con3: "Teme no poder encontrar un piso con las características que él necesita",
                 ima3: "cartoon-PCtyping.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Encuentra pisos en las afueras de Granada, pero dispone de habitaciones muy pequeñas según las fotos, y éstas no son de buena calidad",
+                goal4: "Encuentra pisos en las afueras de Granada (no le gusta la congestión de la ciudad), pero disponen de habitaciones muy pequeñas según las fotos.",
                 touch4: "ordenador",
                 feel4: "2",
-                con4: "Busca opciones no tan alejadas del centro",
+                con4: "Busca opciones no tan alejadas del centro, sabiendo que seguramente sean más caros ",
                 ima4: "cartoon-PCangry.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
@@ -68,16 +68,16 @@ angular.module("angular", [])
                 goal5: "Encuentra 4 opciones que encajan en sus preferencias, rodeadas de zonas verdes, pero muy alejadas de su trabajo",
                 touch5: "ordenador",
                 feel5: "3",
-                con5: "Piensa que quizás le convenga resignarse a vivir en un piso compartido, lo cual le supondría un ahorro total",
+                con5: "Piensa que sin sacrificio no hay recompensa, y decide contactar en el anuncio de la web para concertar una cita para ver el piso",
                 ima5: "cartoon-PCSurprised.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue encontrar un piso a las afueras y cerca de su trabajo, pero compartido. Se siente aliviado y cree que ha sido una buena decisión, a pesar de tener que empezar a convivir con más gente.",
+                goal6: "Contrariamente a sus pensamientos, las personas que habitaban el piso resultaron ser muy agradables y limpias",
                 touch6: "en persona",
                 feel6: "4",
-                con6: "Se pone en contacto con uno de los nuevos compañeros de piso, y quedan ese día para que le muestre el piso y su habitación",
+                con6: "Consigue establecerse en ese piso. Le espera una temporada de ahorro intensivo para poder cumplir su sueño de montar la tienda de Motos",
                 ima6: "cartoon-speaking.png",
                 
 			},
