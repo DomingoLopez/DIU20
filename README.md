@@ -1,7 +1,7 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU2_ECHO.  Curso: 2019/20 
 
 Proyecto: 
 
@@ -10,8 +10,8 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   Domingo López Pacheco     :octocat: [DomingoLopez](https://www.github.com/DomingoLopez/)
- * :bust_in_silhouette:   Manuel Pancorbo Catro     :octocat: [manuelpcastro](https://www.github.com/manuelpcastro/)
+ * :bust_in_silhouette:  Manuel Pancorbo Castro    :octocat: [manuelpcastro](https://github.com/manuelpcastro)
+ * :bust_in_silhouette:  Domingo López Pacheco     :octocat: [DomingoLopez](https://github.com/DomingoLopez)
 
 ----- 
 
@@ -20,7 +20,6 @@ En esta práctica estudiaremos un caso de plataforma de economía colaborativa y
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
 
 
 # Proceso de Diseño 
@@ -30,19 +29,25 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Las aplicaciones o servicios seleccionados para realizar el estudio de usabilidad de esta práctica se basan en el concepto de economía colaborativa, que consiste en la puesta en común o intercambio de recursos en línea. Normalmente esto abarata los costes de los servicios que ofrece y además las interacciones son punto a punto. En estas aplicaciones el usuario es tanto demandante como ofertante. Ejemplo: BlaBlaCar, alguien oferta unas plazas en su coche y otro usuario decide comprarlas. En nuestro caso, asignado a nuestro grupo de prácticas, los servicios se enfocaban en la oferta de habitaciones/pisos para la estancia o alquiler de los mismos. 
+
+Hemos elegido Habitoom debido a que es la que, a priori, parece la más pequeña de las recomendadas en el artículo de las mejores aplicaciones para buscar piso. Nos hemos basado en la usabilidad de la web, que solo tiene versión de escritorio. Si intentamos entrar con el móvil nos manda a la aplicación en la tienda o debemos usar dicha versión (de escritorio). La atención al cliente se hace a través de un número de Whatsapp. Todo esto hace que sea buena candidata para ser analizada.
 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Luis Fernandez: los jóvenes son los usuarios más activos en este tipo de aplicaciones debido a que normalmente estos tienen bajo presupuesto. Dejan de lado, por ejemplo, ir a una agencia de viajes para que se lo realicen. Prefieren tener más poder a la hora de decidir y buscar lo que más se ajusta a ellos. Luis quiere viajar con sus amigos o su pareja en verano y Habitoon puede ser una buena opción para encontrar un sitio en el que hospedarse.
+
+![Persona](P1/imagenes/personaluis.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Experiencia de Luis Fernandez: esta experiencia es muy factible que se produzca debido a la ausencia de atención que genera "Contactar con el propietario" al estar en el mismo color que el resto de la página. Sería más recomendable destacarlo más. Es posible que el usuario se encuentre buscando de arriba a abajo e incluso haciendo scrolls para encontrar "un botón" como podría ser el de Booking. 
+
+![Journey](P1/imagenes/journeyluis.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
