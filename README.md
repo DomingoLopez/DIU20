@@ -62,6 +62,7 @@ Experiencia de Jose Antonio Carrasco: esta experiencia es bastante común cada v
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
+[Enlace al documento pdf - UsabilityReview-P1](P1/Usability-review-template-P1.pdf)
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
