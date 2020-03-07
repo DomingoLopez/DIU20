@@ -11,7 +11,7 @@ A continuación, mostramos una tabla comparativa de funcionalidades entre ésta 
 
 *Falta poner la tabla*
 
-- 2 Personas 
+- __Personas__ 
 
 Luis Fernandez: los jóvenes son los usuarios más activos en este tipo de aplicaciones debido a que normalmente estos tienen bajo presupuesto. Dejan de lado, por ejemplo, ir a una agencia de viajes para que se lo realicen. Prefieren tener más poder a la hora de decidir y buscar lo que más se ajusta a ellos. Luis quiere viajar con sus amigos o su pareja en verano y Habitoon puede ser una buena opción para encontrar un sitio en el que hospedarse.
 
@@ -23,7 +23,7 @@ Jose Antonio Carrasco: Caso de una persona de una edad más avanzada buscando pi
 ![Persona](personas-journey/personajose.png)
 
 
-- 2 User Journey Map  ( 1 por persona)
+- __User Journey Map__
 
 
 Experiencia de Luis Fernandez: esta experiencia es muy factible que se produzca debido a la ausencia de atención que genera "Contactar con el propietario" al estar en el mismo color que el resto de la página. Sería más recomendable destacarlo más. Es posible que el usuario se encuentre buscando de arriba a abajo e incluso haciendo scrolls para encontrar "un botón" como podría ser el de Booking. 
@@ -36,7 +36,7 @@ Experiencia de Jose Antonio Carrasco: esta experiencia es bastante común cada v
 
 
 
-- Revisión de Usabilidad 
+- __Revisión de Usabilidad__ 
 
 
 Nos encontramos ante una Web de alquiler de pisos compartidos (Habitaciones) en el contexto de *Economía colaborativa*. La valoración numérica final obtenida en la plantilla de revisión de usabilidad deja que desear debido a varios problemas de diseño encontrados en la web, el principal de ellos debido a una sección de búsquedas y filtros muy compacta que no ayuda al usuario a entender cómo interaccionar con ella, haciendo que primero deba estudiar la web para entender dónde *clickar* y cómo llevar a cabo las búsquedas. 
