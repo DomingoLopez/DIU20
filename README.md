@@ -29,7 +29,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Las aplicaciones o servicios seleccionados para realizar el estudio de usabilidad de esta práctica se basan en el concepto de economía colaborativa, que consiste en la puesta en común o intercambio de recursos en línea. Normalmente esto abarata los costes de los servicios que ofrece y además las interacciones son punto a punto. En estas aplicaciones el usuario es tanto demandante como ofertante. [Para saber más...](../P1/Readme.md)  
+Las aplicaciones o servicios seleccionados para realizar el estudio de usabilidad de esta práctica se basan en el concepto de economía colaborativa, que consiste en la puesta en común o intercambio de recursos en línea. Normalmente esto abarata los costes de los servicios que ofrece y además las interacciones son punto a punto. En estas aplicaciones el usuario es tanto demandante como ofertante. [Para saber más...](/P1/README.md)  
 
 
 ![Método UX](img/Persona.png) 1.b Persona
@@ -38,7 +38,7 @@ Se han diseñado dos personas:
 [Luis, de 23 años de edad, estudiante](P1/personas-journey/personaluis.png)  
 [Jose Antonio, de 45 años de edad, comercial inmobiliario](P1/personas-journey/personajose.png)  
 
-[Para saber historia de las personas...](P1/Readme.md)
+[Para saber historia de las personas...](P1/README.md)
 
 
 
@@ -50,7 +50,7 @@ Se ha diseñado un Journey Map para cada persona:
 [Journey Map de Luis Fernández](P1/personas-journey/journeyluis.png)  
 [Journey Map de Jose Antonio Carrasco](P1/personas-journey/journeyjose.png)  
 
-[Para saber la experiencia de dichas personas...](P1/Readme.md)
+[Para saber la experiencia de dichas personas...](P1/README.md)
 
 
 
@@ -64,7 +64,7 @@ Revisión de Usabilidad: HABITOOM
 
 	Nos encontramos ante una Web de alquiler de pisos compartidos (Habitaciones) en el contexto de *Economía colaborativa*. La valoración numérica final obtenida en la plantilla de revisión de usabilidad deja que desear debido a varios problemas de diseño encontrados en la web, el principal de ellos debido a una sección de búsquedas y filtros muy compacta que no ayuda al usuario a entender cómo interaccionar con ella, haciendo que primero deba estudiar la web para entender dónde *clickar* y cómo llevar a cabo las búsquedas. 
 
-[Para ver la revisión completa...](P1/Readme.md)
+[Para ver la revisión completa...](P1/README.md)
 
 
 ## Paso 2. UX Design  
