@@ -56,7 +56,7 @@ Experiencia de Luis Fernandez: esta experiencia es muy factible que se produzca 
 
 Experiencia de Jose Antonio Carrasco: esta experiencia es bastante común cada vez más, personas con una cierta edad que no disponen de los medios necesarios para poder independizarse por completo y deciden pasar una temporada compartiendo piso para poder ahorrar. En éste caso la experiencia acaba siendo satisfactoria. Los problemas encontrados por Jose Antonio fueron los pocos filtros de búsqueda en la Web, que permiten personalizar muy poco las búsquedas, dando lugar a resultados no deseados. 
 
-![Journey](P1/imagenes/journeyjose.png)
+![Journey](P1/imagenes/journeyjose1.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
