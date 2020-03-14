@@ -48,7 +48,7 @@ Se han diseñado dos personas:
 Se ha diseñado un Journey Map para cada persona:  
 
 [Journey Map de Luis Fernández](P1/personas-journey/journeyluis.png)  
-[Journey Map de Jose Antonio Carrasco](P1/personas-journey/journeyjose.png)  
+[Journey Map de Jose Antonio Carrasco](P1/personas-journey/journeyjose1.png)  
 
 [Para saber la experiencia de dichas personas...](P1/README.md)
 
