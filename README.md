@@ -29,7 +29,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Las aplicaciones o servicios seleccionados para realizar el estudio de usabilidad de esta práctica se basan en el concepto de economía colaborativa, que consiste en la puesta en común o intercambio de recursos en línea. Normalmente esto abarata los costes de los servicios que ofrece y además las interacciones son punto a punto. En estas aplicaciones el usuario es tanto demandante como ofertante. [Para saber más...](/P1/README.md)  
+Las aplicaciones o servicios seleccionados para realizar el estudio de usabilidad de esta práctica se basan en el concepto de economía colaborativa, que consiste en la puesta en común o intercambio de recursos en línea. Normalmente esto abarata los costes de los servicios que ofrece y además las interacciones son punto a punto. En estas aplicaciones el usuario es tanto demandante como ofertante. [Ver análisis de la competencia completo...](/P1/README.md)  
 
 
 ![Método UX](img/Persona.png) 1.b Persona
