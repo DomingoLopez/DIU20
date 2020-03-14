@@ -13,7 +13,7 @@ Escala: 1- Malo, 2- Moderado, 3- Bueno
 
 |  	   | HomePage  | B y Filtros|Accesibil.  |Popularidad |
 |---	   |---	       |---	    |---         |---	      |
-| HABITOOM | 	2      |      2     |      1     |   	2     |
+| HABITOOM | 	2      |      1     |      1     |   	2     |
 | BADI	   |   	3      |      3	    |      2     |   	3     |
 | COMP.T.P | 	2      |      1	    |      1     |   	1     |   	   
 
