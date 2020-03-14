@@ -49,7 +49,16 @@ Experiencia de Jose Antonio Carrasco: esta experiencia es bastante común cada v
 Nos encontramos ante una Web de alquiler de pisos compartidos (Habitaciones) en el contexto de *Economía colaborativa*. La valoración numérica final obtenida en la plantilla de revisión de usabilidad deja que desear debido a varios problemas de diseño encontrados en la web, el principal de ellos debido a una sección de búsquedas y filtros muy compacta que no ayuda al usuario a entender cómo interaccionar con ella, haciendo que primero deba estudiar la web para entender dónde *clickar* y cómo llevar a cabo las búsquedas. 
 
 Además, carece de formularios de contacto suficientes para solicitar información o ayuda, aunque dispone de una sección de *FAQs* bien elaborada pero difícil de localizar. 
-En nuestra opinión tiene mucho margen de mejora en cuanto al diseño (Principalmente el diseño en *caja* hace que la web sea muy compacta y difícilmente entendible por el usuario, además de no ser soportada por dispositivos móviles, cosa que sólo por ello debería considerarse un craso error de accesibilidad)
+En nuestra opinión tiene mucho margen de mejora en cuanto al diseño (Principalmente el diseño en *caja* hace que la web sea muy compacta y difícilmente entendible por el usuario, además de no ser soportada por dispositivos móviles, cosa que sólo por ello debería considerarse un craso error de accesibilidad).
+
+La valoración final obtenida (60 - Moderate) coincide con la valoración que le pondríamos a la web (Un 6 sobre 10). Aprueba porque la web cumple su función y permite alquilar habitaciones y pisos con un diseño primitivo pero aceptable. 
+
+Uno de los factores más importantes que determinan ésta nota es la escasez de filtros personalizados ("Preferencias sobre género", "Fumadores", "Mascotas", "Sitios de interés cercanos", "Gimnasios y centros de actividad cerca", etc), así como la mala gestión de usuarios que seleccionan un alojamiento para visitar y no se notifica adecuadamente que ese alojamiento está siendo visitado por un posible inquilino, lo que supone que el usuario final se haga espectativas pudiendo ser éstas echadas por tierra al comunicarle que el piso ya ha sido alquilado.
+
+Puede verse el informe de usabilidad técnico en el siguiente enlace:
+[Enlace al documento pdf - UsabilityReview-P1](P1/Usability-review-template-P1.pdf)
+
+
 
 
 
