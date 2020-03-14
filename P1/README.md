@@ -56,7 +56,7 @@ La valoración final obtenida (60 - Moderate) coincide con la valoración que le
 Uno de los factores más importantes que determinan ésta nota es la escasez de filtros personalizados ("Preferencias sobre género", "Fumadores", "Mascotas", "Sitios de interés cercanos", "Gimnasios y centros de actividad cerca", etc), así como la mala gestión de usuarios que seleccionan un alojamiento para visitar y no se notifica adecuadamente que ese alojamiento está siendo visitado por un posible inquilino, lo que supone que el usuario final se haga espectativas pudiendo ser éstas echadas por tierra al comunicarle que el piso ya ha sido alquilado.
 
 Puede verse el informe de usabilidad técnico en el siguiente enlace:
-[Enlace al documento pdf - UsabilityReview-P1](P1/Usability-review-template-P1.pdf)
+[Enlace al documento pdf - UsabilityReview-P1](Usability-review-template-P1.pdf)
 
 
 
