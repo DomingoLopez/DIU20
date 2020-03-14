@@ -44,7 +44,7 @@ angular.module("angular", [])
 				], 
 				Goals: ["Ahorrar lo suficiente para crear su propia tienda de Motociclismo", "Encontrar una pareja estable"],
 				Frustrations: ["Odia la congestión de la ciudad.", "Le gustaría disponer de más tiempo libre para poder pasear con su Moto"],
-				Bio: "Nació en Madrid pero se vino a Granada por el buen clima y sus gentes. Empezó a trabajar en una inmobiliaria como comercial y ya lleva 10 años dedicado a ello. Su círculo de amigos es discreto, a pesar de ser una persona muy extrovertida debido a su trabajo. Intenta abstraerse de las preocupaciones gracias a la lectura de Ciencia Ficción y su pasión por las Motos",
+				Bio: "Nació en Madrid pero se vino a Granada por el buen clima y sus gentes. Empezó a trabajar en una inmobiliaria como comercial y ya lleva 10 años dedicado a ello. Su círculo de amigos es discreto, a pesar de ser una persona muy extrovertida debido a su trabajo. Intenta abstraerse de las preocupaciones gracias a la lectura de Ciencia Ficción y su pasión por las Motos. No fuma y se cuida bastante (va al gimnasio 4 dias a la semana). Prefiere peli y manta que salir de copas.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 3 },
 					{ Name: "Movil", Value: 3 },
@@ -71,21 +71,21 @@ angular.module("angular", [])
 				Id: 1,
 				Name: "Luis Fernandez",
 				Photo: "p1.jpg",
-				Quote: "Believe in yourself",
-				Age: 23,
+				Quote: "La vida te enseña quién sí, quién no y quién nunca",
+				Age: 24,
 				Occupation: "Estudiante de Geologia y dependiente de una tienda de ropa",
 				Family: "Con pareja desde hace 3 años",
 				Location: "Madrid",
-				Character: "Le gusta aprovechar el tiempo y priorizar sus tareas",
+				Character: "Le gusta aprovechar el tiempo y priorizar sus tareas.",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 8 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 5 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 7 }
 				], 
-				Goals: ["Trabajar de lo que le gusta", "Pasar mas tiempo con su pareja", "Independizarse"],
-				Frustrations: ["Los clientes de la tienda no suelen ser lo amables que él quisiera", "Tendra que hacer unas oposiciones para poder ser profesor y no está seguro de ser capaz de conseguirlo"],
-				Bio: "Trabaja para poder costearse sus gastos. Vive con sus padres. Lleva un año contratado en la tienda. Conoció a su grupo de amigos en la universidad",
+				Goals: ["Trabajar de lo que le gusta: ser profesor", "Pasar mas tiempo con su pareja", "Independizarse"],
+				Frustrations: ["Le cabrea mucho sentir que esta perdiendo el tiempo", "Los clientes de la tienda no suelen ser lo amables que él quisiera", "Tiene problemas con sus padres", "Tendra que hacer unas oposiciones para poder ser profesor y no está seguro de ser capaz de conseguirlo", "No se lleva bien con su padre"],
+				Bio: "Conoce a su novia desde que eran pequeños, en el colegio. Trabaja para poder costearse sus gastos. Vive con su madre, ya que sus padres están separados. No cree en la politica pero sí en la educación y sanidad pública. Lleva un año contratado en la tienda. Conoció a su grupo de amigos en la universidad ya que separó de su anterior grupo de amigos porque empezaron a probar drogas y solo se dedicaban a ir de fiesta en fiesta en los fines de semana.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 2 },
 					{ Name: "Movil", Value: 4 },
@@ -93,7 +93,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos: "Busca un par de lugares para poder hacer un viaje con sus amigos y otro con su pareja",  
+                Contextos: "Quiere despejarse un poco porque está harto de la ciudad. Quiere independizarse pronto asi que tiene que ir ahorrando para poder irse a vivir con su pareja. Les gustaría tener una mascota, preferiblemente un perro. Necesita un trabajo más estable.",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 2 },
 					{ Name: "Online & Social Media", Value: 4 },

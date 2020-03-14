@@ -7,18 +7,26 @@ Las aplicaciones o servicios seleccionados para realizar el estudio de usabilida
 
 Hemos elegido Habitoom debido a que es la que, a priori, parece la más pequeña de las recomendadas en el artículo de las mejores aplicaciones para buscar piso. Nos hemos basado en la usabilidad de la web, que solo tiene versión de escritorio. Si intentamos entrar con el móvil nos manda a la aplicación en la tienda o debemos usar dicha versión (de escritorio). La atención al cliente se hace a través de un número de Whatsapp. Todo esto hace que sea buena candidata para ser analizada.
 
-A continuación, mostramos una tabla comparativa de funcionalidades entre ésta aplicación y las demás, comparando así dichas funcionalidades entra ellas.
+A continuación, mostramos una tabla comparativa de funcionalidades entre ésta aplicación y las demás.
 
-*Falta poner la tabla*
+Escala: 1- Malo, 2- Moderado, 3- Bueno
+
+|   	   |   	       | Busqueda y |	         |	      |
+|  	   | HomePage  | Filtros    |Accesibil.  |Popularidad |
+|---	   |---	       |---	    |---         |---	      |
+| HABITOOM | 	2      |      2     |      1     |   	2     |
+| BADI	   |   	3      |      3	    |      2     |   	3     |
+| COMP.T.P | 	2      |      1	    |      1     |   	1     |   	   
 
 - __Personas__ 
 
-Luis Fernandez: los jóvenes son los usuarios más activos en este tipo de aplicaciones debido a que normalmente estos tienen bajo presupuesto. Dejan de lado, por ejemplo, ir a una agencia de viajes para que se lo realicen. Prefieren tener más poder a la hora de decidir y buscar lo que más se ajusta a ellos. Luis quiere viajar con sus amigos o su pareja en verano y Habitoon puede ser una buena opción para encontrar un sitio en el que hospedarse.
+Luis Fernandez: Caso de una persona que ha tenido problemas con bastante personas, ha pasado toda la vida con su madre y la quiere mucho, pero cree que va llegando el momento de independizarse e irse a vivir con su novia, Paula. Es la persona con la que mejor se siente aunque también suele despejarse mucho con sus amigos. Si consigue un mejor trabajo le gustaría poder alquilar un piso medianamente bueno. También le gustaría realizar unos viajes para poder salir de Madrid, cosa que no ha hecho mucho más que con el colegio. Su profesión ideal sería ser profesor en el instituto de Geología, grado que está estudiando en este momento a la vez que trabaja en una tienda de ropa local.
 
 ![Persona](personas-journey/personaluis.png)
 
 
-Jose Antonio Carrasco: Caso de una persona de una edad más avanzada buscando piso para poder ahorrar algo más al mes. Suelen tardar más en decidir dónde vivir debido a experiencias anteriores, y no se conforman con cualquier cosa. A pesar de sus exigencias, en muchas ocasiones deben ceder y resignarse a compartir un piso aunque su objetivo fuera vivir solos. Jose Antonio necesita ahorrar para montar su propia tienda de Motos y cumplir su sueño. 
+Jose Antonio Carrasco: Caso de una persona de una edad más avanzada buscando piso para poder ahorrar algo más al mes. Suelen tardar más en decidir dónde vivir debido a experiencias anteriores, y no se conforman con cualquier cosa. A pesar de sus exigencias, en muchas ocasiones deben ceder y resignarse a compartir un piso aunque su objetivo fuera vivir solos. 
+Jose vive en Granada y trabaja en un inmobiliaria en la que dedica gran parte de su tiempo. Podríamos decir que es un loco por el trabajo y muy responsable en el mismo. No tiene muchos amigos, prefiere peli y manta que salir de copas y le apasiona el mundo del motor. Su sueño es montar su propia tienda de Motos. Se cuida bastante, va al gimnasio que está en la calle donde vive y su poco tiempo libre lo emplea en recoletar información sobre administración de empresas para cuando monte su negocio.
 
 ![Persona](personas-journey/personajose.png)
 
