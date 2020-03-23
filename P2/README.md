@@ -7,8 +7,12 @@ De cara a realizar un mejor diseño del estudiado en la P1, hemos de empezar rea
 
 Es importante tener en cuenta que estamos realizando un Diseño Centrado en el Usuario, que sitúa a la persona como eje principal del proceso de diseño, por lo que gran parte de los contenidos de la malla receptora harán referencia a problemas/sugerencias que los usuarios (nuestras personas) hayan podido tener.
 
+
+
 ![FeedBack-Grid](imagenes/FeedBack-Grid.jpg)
  
+
+
 
 Como podemos observar en el FeedBack capture grid, hemos destacado todas aquellas inquietudes que han podido surgir a nuestros usuarios. Destacamos en críticas constructivas, la falta de filtros de búsqueda avanzados y personalizados, así como el diseño de la interfaz tan colapsada que consigue abrumar al usuario. 
 
@@ -20,7 +24,7 @@ El principal problema de ésta propuesta podría llegar a ser la impaciencia del
 
 
 
- __User/task Matrix__
+ - __User/task Matrix__
 
 
 
