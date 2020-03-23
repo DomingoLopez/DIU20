@@ -73,20 +73,12 @@ Revisión de Usabilidad: HABITOOM
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
+De cara a realizar un mejor diseño del estudiado en la P1, hemos de empezar realizando una malla receptora de información (feedback capture grid), en la que vamos a obtener un *feedback* sobre el diseño analizado, así como lanzar nuevas propuestas e ideas para el desarrollo de los bocetos de nuestra App. 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+
+Puede verse el desarrollo de ésta sección con más profundidad en el siguiente [enlace...](P2/README.md)
 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
