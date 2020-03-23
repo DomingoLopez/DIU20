@@ -30,7 +30,15 @@ En ésta sección vamos a definir el User/task matrix. Una matriz o tabla en la 
 
 Hemos optado por realizar el User/task matrix en lugar del User task/flow porque creemos que refleja la importancia de las funcionalidades de un simple vistazo, obteniendo una visión completa de lo que debemos diseñar de cara a obtener un diseño mucho más cercano a la realidad. 
 
-En contraposición, el User/task flow presenta una visión particular de los pasos que debe usar el usuario para realizar una tarea concreta, lo que serviría mucho a los diseñadores para llevar a cabo el diseño y programación de la app.
+En contraposición, el User/task flow presenta una visión particular de los pasos que debe usar el usuario para realizar una tarea concreta, lo que serviría mucho a los diseñadores para llevar a cabo el diseño y programación de la app.   
+
+![User/task Matrix](imagenes/User-Task-Matrix.png)   
+
+Como se puede observar, la frecuencia de uso (H,M,L) varía según el perfil de usuario analizado.
+
+Obtenemos una frecuencia de uso menor respecto a los propietarios en aquellas "nuevas" funcionalidades que hemos incorporado, muestra de nuestro "diseño centrado en el usuario", siendo éste un usuario que busca compartir piso y no un propietario. 
+
+En cuanto a las nuevas funcionalidades incorporadas, destacamos "Realizar búsqueda por pasos", funcionalidad que puede que no cale tanto en el perfil de los estudiantes, pero sí en el de interesados generales, que pueden llegar a ser personas con un menor conocimiento de las tecnologías y que vean en ésta funcionalidad una mejor opción para no perderse con tantos filtros en la búsqueda avanzada. 
 
 
 
