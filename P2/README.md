@@ -41,8 +41,18 @@ Obtenemos una frecuencia de uso menor respecto a los propietarios en aquellas "n
 En cuanto a las nuevas funcionalidades incorporadas, destacamos "Realizar búsqueda por pasos", funcionalidad que puede que no cale tanto en el perfil de los estudiantes, pero sí en el de interesados generales, que pueden llegar a ser personas con un menor conocimiento de las tecnologías y que vean en ésta funcionalidad una mejor opción para no perderse con tantos filtros en la búsqueda avanzada. 
 
 
+ - __Sitemap__
+
+Para describir la navegación lógica de nuestra App, hemos desarrollado un Sitemap ó mapa del sitio por el que el usuario podrá navegar. 
+
+Para ello, hemos tenido en cuenta todas las funcionalidades nuevas añadidas, así como las existentes. 
 
 
-Sitemap & Task flow 
-Labelling 
+
+ - __Labelling__
+
+
+
+ - __Wirfeframe__
+
 Wireframe & User flow 
