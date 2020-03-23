@@ -5,11 +5,11 @@
 
 De cara a realizar un mejor diseño del estudiado en la P1, hemos de empezar realizando una malla receptora de información (feedback capture grid), en la que vamos a obtener un *feedback* sobre el diseño analizado, así como lanzar nuevas propuestas e ideas para el desarrollo de los bocetos de nuestra App. 
 
-Es importante tener en cuenta que estamos realizando un Diseño Centrado en el Usuario, que sitúa a la persona como eje principal del proceso de diseño, por lo que gran parte de los contenidos de la malla receptora harán referencia a problemas/sugerencias que los usuarios (nuestras personas) hayan podido tener.
+Es importante tener en cuenta que estamos realizando un Diseño Centrado en el Usuario, que sitúa a la persona como eje principal del proceso de diseño, por lo que gran parte de los contenidos de la malla receptora harán referencia a problemas/sugerencias que los usuarios (nuestras personas) hayan podido tener.   
 
-#### Caso estudiado: HABITOOM
+#### Caso estudiado: HABITOOM        
 
-![FeedBack-Grid](imagenes/FeedBack-Grid.jpg)
+![FeedBack-Grid](imagenes/FeedBack-Grid.jpg)   
  
 
 
