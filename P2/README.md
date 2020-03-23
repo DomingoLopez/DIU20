@@ -26,6 +26,13 @@ El principal problema de ésta propuesta podría llegar a ser la impaciencia del
 
  - __User/task Matrix__
 
+En ésta sección vamos a definir el User/task matrix. Una matriz o tabla en la que vamos a enumerar cada una de las funcionalidades que nuestro diseño va a soportar, y vamos a compararla con los distintos perfiles de usuario que harían uso de la app, para poder destacar las funcionalidades más relevantes a la hora de plantear un diseño, y hacer hincapié en las mismas.
+
+Hemos optado por realizar el User/task matrix en lugar del User task/flow porque creemos que refleja la importancia de las funcionalidades de un simple vistazo, obteniendo una visión completa de lo que debemos diseñar de cara a obtener un diseño mucho más cercano a la realidad. 
+
+En contraposición, el User/task flow presenta una visión particular de los pasos que debe usar el usuario para realizar una tarea concreta, lo que serviría mucho a los diseñadores para llevar a cabo el diseño y programación de la app.
+
+
 
 
 Sitemap & Task flow 
