@@ -7,7 +7,7 @@ De cara a realizar un mejor diseño del estudiado en la P1, hemos de empezar rea
 
 Es importante tener en cuenta que estamos realizando un Diseño Centrado en el Usuario, que sitúa a la persona como eje principal del proceso de diseño, por lo que gran parte de los contenidos de la malla receptora harán referencia a problemas/sugerencias que los usuarios (nuestras personas) hayan podido tener.
 
-# Caso estudiado: HABITOOM
+### Caso estudiado: HABITOOM
 
 ![FeedBack-Grid](imagenes/FeedBack-Grid.jpg)
  
