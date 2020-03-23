@@ -85,16 +85,13 @@ Puede verse el desarrollo de ésta sección con más profundidad en el siguiente
 
 En ésta sección vamos a definir el User/task matrix. Una matriz o tabla en la que vamos a enumerar cada una de las funcionalidades que nuestro diseño va a soportar, y vamos a compararla con los distintos perfiles de usuario que harían uso de la app, para poder destacar las funcionalidades más relevantes a la hora de plantear un diseño, y hacer hincapié en las mismas. Puede verse el desarrollo de ésta sección en el siguiente [enlace...](P2/README.md)
 
+En cuanto al SiteMap de la App, lo podemos encontrar en el siguiente [(*FALTA ENLACE*)enlace](P2/imagenes/sitemap.jpg) en formato jpg.
+
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+Para poder entender el Sitemap anterior, hemos de describir cada uno de los "labels" ó etiquetas que lo conforman. Puede encontrarse la descripción completa en el siguiente [enlace...](P2/README.md)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
