@@ -20,7 +20,7 @@ En cuanto a las ideas/propuestas de valor para un nuevo diseño de la plataforma
 
 La sección de búsqueda guiada permitiría al usuario desentenderse de tener que pulsar tantos botones sobre la interfaz para realizar el filtro, así como dar una sensación de obtención de viviendas con características mucho más personalizas. El usuario sería guiado por una especie de formulario por pasos ("Step by step form") en el que garantizaríamos búsquedas más concretas de acuerdo a las preferencias del mismo. 
 
-El principal problema de ésta propuesta podría llegar a ser la impaciencia del usuario por terminar el formulario, aunque es áltamente recomendable para personas que no tengan tanto control con las nuevas tecnologías, hacíendole el caminio más ameno y simple. 
+El principal problema de ésta propuesta podría llegar a ser la impaciencia del usuario por terminar el formulario, aunque es áltamente recomendable para personas que no tengan tanto control con las nuevas tecnologías, hacíendole el camino más ameno y simple. 
 
 
 
