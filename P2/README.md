@@ -1,7 +1,7 @@
 ## DIU - Practica2, entregables
 
 
-- __Malla receptora de información__
+- __Malla receptora de información__   
 
 De cara a realizar un mejor diseño del estudiado en la P1, hemos de empezar realizando una malla receptora de información (feedback capture grid), en la que vamos a obtener un *feedback* sobre el diseño analizado, así como lanzar nuevas propuestas e ideas para el desarrollo de los bocetos de nuestra App. 
 
@@ -24,7 +24,7 @@ El principal problema de ésta propuesta podría llegar a ser la impaciencia del
 
 
 
- - __User/task Matrix__
+ - __User/task Matrix__   
 
 En ésta sección vamos a definir el User/task matrix. Una matriz o tabla en la que vamos a enumerar cada una de las funcionalidades que nuestro diseño va a soportar, y vamos a compararla con los distintos perfiles de usuario que harían uso de la app, para poder destacar las funcionalidades más relevantes a la hora de plantear un diseño, y hacer hincapié en las mismas.
 
@@ -41,17 +41,17 @@ Obtenemos una frecuencia de uso menor respecto a los propietarios en aquellas "n
 En cuanto a las nuevas funcionalidades incorporadas, destacamos "Realizar búsqueda por pasos", funcionalidad que puede que no cale tanto en el perfil de los estudiantes, pero sí en el de interesados generales, que pueden llegar a ser personas con un menor conocimiento de las tecnologías y que vean en ésta funcionalidad una mejor opción para no perderse con tantos filtros en la búsqueda avanzada. 
 
 
- - __Sitemap__
+ - __Sitemap__   
 
 Para describir la navegación lógica de nuestra App, hemos desarrollado un Sitemap ó mapa del sitio por el que el usuario podrá navegar. 
 
 Para ello, hemos tenido en cuenta todas las funcionalidades nuevas añadidas, así como las existentes.    
 
-![User/task Matrix](imagenes/sitemap.jpeg)   
+![SiteMap](imagenes/sitemap.jpeg)   
 
- - __Labelling__
+ - __Labelling__   
 
-
+![Labelling](imagenes/labelling.jpeg)   
 
  - __Wirfeframe__
 
