@@ -34,11 +34,26 @@ En contraposición, el User/task flow presenta una visión particular de los pas
 
 ![User/task Matrix](imagenes/User-Task-Matrix.png)   
 
+Hemos usado la métrica siguiente para numerar y dar un valor a las distintas funcionalidades de nuestra App: 
+
+ - "-" -> 0
+ - "L" -> 1
+ - "M" -> 2
+ - "H" -> 3
+
+Obtenemos así una tabla con las funcionalidades ordenadas según frecuencia de uso y segúń el tipo de usuario que haga uso de ellas.
+
 Como se puede observar, la frecuencia de uso (H,M,L) varía según el perfil de usuario analizado.
 
 Obtenemos una frecuencia de uso menor respecto a los propietarios en aquellas "nuevas" funcionalidades que hemos incorporado, muestra de nuestro "diseño centrado en el usuario", siendo éste un usuario que busca compartir piso y no un propietario. 
 
-En cuanto a las nuevas funcionalidades incorporadas, destacamos "Realizar búsqueda por pasos", funcionalidad que puede que no cale tanto en el perfil de los estudiantes, pero sí en el de interesados generales, que pueden llegar a ser personas con un menor conocimiento de las tecnologías y que vean en ésta funcionalidad una mejor opción para no perderse con tantos filtros en la búsqueda avanzada. 
+En cuanto a las nuevas funcionalidades incorporadas, destacamos:
+ - "Realizar búsqueda por pasos": Funcionalidad que puede que no cale tanto en el perfil de los estudiantes, pero sí en el de interesados generales, que pueden llegar a ser personas con un menor conocimiento de las tecnologías y que vean en ésta funcionalidad una mejor opción para no perderse con tantos filtros en la búsqueda avanzada. 
+ - "Chatear con propietario e inquilino" : Funcionalidad que pretende dar dinamismo a la comunicación entre las personas involucradas, quitando el tedioso formulario de contacto. 
+ - "Búsqueda por zona": donde el usuario podrá seleccionar con una herramienta de "lazo" la zona en la que desea alquilar habitación
+ - "Suscripción a alertas sobre filtros personalizados": Permite recibir alertas en función de una búsqueda que hayamos realizado, asegurando así que la opción final escogida cumpla con nuestros criterios.
+
+Destacamos finalmente que los usuarios "Interesados" (personas con una cierta experiencia ya en la vida, no estudiantes ó con trabajos ya fijos, más serios), harán más uso de las funcionalidades planteadas, mientras que los usuarios "Estudiantes" irán más al grano, sin tener en cuenta tantos filtros ni preferencias. 
 
 
  - __Sitemap__   
