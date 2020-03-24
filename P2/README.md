@@ -45,9 +45,9 @@ En cuanto a las nuevas funcionalidades incorporadas, destacamos "Realizar búsqu
 
 Para describir la navegación lógica de nuestra App, hemos desarrollado un Sitemap ó mapa del sitio por el que el usuario podrá navegar. 
 
-Para ello, hemos tenido en cuenta todas las funcionalidades nuevas añadidas, así como las existentes. 
+Para ello, hemos tenido en cuenta todas las funcionalidades nuevas añadidas, así como las existentes.    
 
-
+![User/task Matrix](imagenes/sitemap.jpeg)   
 
  - __Labelling__
 
