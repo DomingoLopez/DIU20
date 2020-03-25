@@ -91,7 +91,8 @@ En cuanto al SiteMap de la App, lo podemos encontrar en el siguiente [enlace](P2
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-Para poder entender el Sitemap anterior, hemos de describir cada uno de los "labels" ó etiquetas que lo conforman. Puede encontrarse la descripción completa en el siguiente [enlace...](P2/README.md)
+Para poder entender el Sitemap anterior, hemos de describir cada uno de los "labels" ó etiquetas que lo conforman. 
+Podemos ver el Labelling en el siguiente [enlace](P2/imagenes/labelling.jpeg) en formato jpeg, ó ver la descripción completa del labelling en éste otro [enlace...](P2/README.md)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes

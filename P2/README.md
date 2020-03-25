@@ -66,8 +66,10 @@ Para ello, hemos tenido en cuenta todas las funcionalidades nuevas añadidas, as
 
  - __Labelling__   
 
+Para poder entender el Sitemap anterior, hemos de describir cada uno de los "labels" ó etiquetas que lo conforman, y por las que el usuario podrá navegar.
+
 ![Labelling](imagenes/labelling.jpeg)   
 
- - __Wirfeframe__
+ - __Wirfeframe__   
 
-Wireframe & User flow 
+
