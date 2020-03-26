@@ -73,7 +73,12 @@ Para poder entender el Sitemap anterior, hemos de describir cada uno de los "lab
  - __Wirfeframe__   
 
 
-<img src="imagenes/wireframes/inicio.png" width="230" />  &nbsp;  <img src="imagenes/wireframes/inicio-menu.png" width="230" />
+<img src="imagenes/wireframes/inicio.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/inicio-menu.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/busqueda-zona.png" width="230" />
+
+
+<img src="imagenes/wireframes/agente-inmobiliario.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/agente-inmobiliario-2.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/busqueda-avanzada.png" width="230" />
+
+
 
 
 
