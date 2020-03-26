@@ -73,7 +73,7 @@ Para poder entender el Sitemap anterior, hemos de describir cada uno de los "lab
  - __Wirfeframe__   
 
 
-![alt-text-1](imagenes/wireframes/inicio.png "title-1") ![alt-text-2](imagenes/wireframes/inicio-menu.png "title-2")
+<img src="imagenes/wireframes/inicio.png" width="20" />
 
 
 
