@@ -73,7 +73,7 @@ Para poder entender el Sitemap anterior, hemos de describir cada uno de los "lab
  - __Wirfeframe__   
 
 
-<img src="imagenes/wireframes/inicio.png" width="20" />
+<img src="imagenes/wireframes/inicio.png" width="230" />
 
 
 
