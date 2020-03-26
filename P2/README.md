@@ -70,7 +70,7 @@ Para poder entender el Sitemap anterior, hemos de describir cada uno de los "lab
 
 ![Labelling](imagenes/labelling.jpeg)   
 
- - __Wirfeframe__   
+ - __Wirfeframes__   
 
 
 <img src="imagenes/wireframes/inicio.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/inicio-menu.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/busqueda-zona.png" width="230" />
@@ -79,8 +79,22 @@ Para poder entender el Sitemap anterior, hemos de describir cada uno de los "lab
 <img src="imagenes/wireframes/agente-inmobiliario.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/agente-inmobiliario-2.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/busqueda-avanzada.png" width="230" />
 
 
+<img src="imagenes/wireframes/resultado-busqueda.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/piso-concreto.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/hot-flats.png" width="230" />
 
 
+<img src="imagenes/wireframes/contacto.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/configuracion.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/gestion-notificaciones.png" width="230" />
+
+
+<img src="imagenes/wireframes/modificar-datos.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/area-personal.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/mis-publicaciones.png" width="230" />
+
+
+<img src="imagenes/wireframes/chat.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/propietarios.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/compradores.png" width="230" />
+
+
+<img src="imagenes/wireframes/servicio-tecnico.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/registro-vivienda.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/reserva-vivienda.png" width="230" />
+
+
+<img src="imagenes/wireframes/notificaciones.png" width="230" />
 
 
 
