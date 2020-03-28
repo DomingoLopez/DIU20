@@ -98,7 +98,7 @@ Podemos ver el Labelling en el siguiente [enlace](P2/imagenes/labelling.jpeg) en
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Finalmente, hemos desarrollado multitud de wireframes correspondientes a cada uno de las vistas que se podría encontrar el usuario al hacer uso de nuestra app, siguiente el esquema del sitemap y labelling anteriormente desarrollados. Puede encontrarse más información de éste apartado en el siguiente [enlace...](P2/README.md)
 
 
 ## Paso 3. Make (Prototyping) 
