@@ -102,3 +102,15 @@ Finalmente, hemos desarrollado multitud de wireframes correspondientes a cada un
 
 
 
+ - __Conclusión sobre esta práctica__   
+
+
+Esta sesión nos ha servido para poder analizar y realizar críticas constructivas sobre el diseño de una plataforma utilizando herramientas reales para tal propósito, como la malla receptora de inforamción, la matriz de tareas de usuario, diseño de un sitemap, labelling y diseño de wireframes. 
+
+En su conjunto, componen un documento que pretende dar una nueva propuesta de diseño sobre el diseño estudiado, aportando valor al mismo y dando otra perspectiva para que el producto pueda ser rediseñado, incluso llevado a cabo como un proyecto nuevo e independiente. 
+
+Estamos satisfechos con el resultado, dado que consideramos que nuestro diseño de App colaborativa cumple con los requisitos de la práctica, además de sentirnos muy realizados al poder haber desarrollado los wireframes, proceso que nos ha parecido muy entretenido y didáctico.
+
+
+
+
