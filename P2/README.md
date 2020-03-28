@@ -73,7 +73,7 @@ Para poder entender el Sitemap anterior, hemos de describir cada uno de los "lab
  - __Wirfeframes__   
 
 
-Finalmente, hemos desarrollado multitud de wireframes correspondientes a cada uno de las vistas que se podría encontrar el usuario al hacer uso de nuestra app, siguiendo el esquema del sitemap y labelling anteriormente desarrollados.
+Finalmente, hemos desarrollado multitud de wireframes correspondientes a cada uno de las vistas que se podría encontrar el usuario al hacer uso de nuestra app, siguiendo el esquema del sitemap y labelling anteriormente desarrollados. Para más detalle, se pueden encontrar todos numerados y con su título correspondiente en el siguiente [enlace...](imagenes/wireframes/)
 
 
 <img src="imagenes/wireframes/inicio.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/inicio-menu.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/busqueda-zona.png" width="230" />
