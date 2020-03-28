@@ -73,7 +73,10 @@ Para poder entender el Sitemap anterior, hemos de describir cada uno de los "lab
  - __Wirfeframes__   
 
 
-<img src="imagenes/wireframes/inicio.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/inicio-menu.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/busqueda-zona.png" width="230" />
+Finalmente, hemos desarrollado multitud de wireframes correspondientes a cada uno de las vistas que se podría encontrar el usuario al hacer uso de nuestra app, siguiendo el esquema del sitemap y labelling anteriormente desarrollados. 
+
+
+<figure><img src="imagenes/wireframes/inicio.png" width="230" /><figcaption>Inicio</figcaption></figure>&nbsp; &nbsp;<img src="imagenes/wireframes/inicio-menu.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/busqueda-zona.png" width="230" />
 
 
 <img src="imagenes/wireframes/agente-inmobiliario.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/agente-inmobiliario-2.png" width="230" />&nbsp; &nbsp;<img src="imagenes/wireframes/busqueda-avanzada.png" width="230" />
