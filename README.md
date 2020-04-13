@@ -110,7 +110,7 @@ Finalmente, hemos desarrollado multitud de wireframes correspondientes a cada un
 
 Se pretende continuar con la documentación y diseño de la aplicación desarrollada en la sección 2. Para ello, vamos a analizar una propuesta de diseño que podríamos considerar que cumple los objetivos y sigue los cánones de buenas prácticas para tal cometido, para posteriormente realizar un símil con nuestro producto. 
 
-Por tanto, en ésta sección nos disponemos al análisis del UX-Case Study de la aplicación MuseAPP. Puede verse el análisis completo en el siguiente [enlace...](P3/README.md)
+Por tanto, en ésta sección nos disponemos al análisis del UX-Case Study de la aplicación [Muse Map](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b). Puede verse el análisis completo en el siguiente [enlace...](P3/README.md)
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
