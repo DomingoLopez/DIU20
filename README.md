@@ -125,7 +125,7 @@ Finalmente, hemos desarrollado multitud de wireframes correspondientes a cada un
 ----
 
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
+ 
 
 ## Paso 4. UX Check (Usability Testing) 
 
