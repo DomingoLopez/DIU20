@@ -3,7 +3,7 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU2_ECHO.  Curso: 2019/20 
 
-Proyecto: FLATS & GO
+Proyecto: FLATS&GO
 
 Descripción: FLATS&GO es una propuesta de diseño para una plataforma de economía colaborativa de alquiler de habitaciones y viviendas. Se ha desarrollado llevando a cabo técnicas actuales de *Design Thinking* y pretende mejorar ciertos aspectos de las aplicaciones actuales de ésta temática para aportar más valor al producto. Está pensada para desarrollarse sobre plataformas móviles (Inicialmente Android), por lo que se han seguido directrices de diseño aportadas por la propia Google.
 
