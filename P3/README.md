@@ -42,7 +42,7 @@ Indicar que se podrían añadir herramientas como __Feature Prioritisation__ y s
 
 
 
-## Propuesta de elementos de diseño o patrones a usar 
+## Propuesta de elementos de diseño o patrones a usar  
 
 
 
