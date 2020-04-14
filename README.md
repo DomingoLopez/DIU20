@@ -121,7 +121,7 @@ Por tanto, en ésta sección nos disponemos al análisis del UX-Case Study de la
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Para poder realizar un buen diseño para nuestro __producto final__, hemos de seguir unas directrices marcadas por la comunidad, dado que han sido estudiadas y consensuadas previamente (Sirviendo de referencia para diseñadores). En nuestro caso, y dado que vamos a priorizar el desarrollo de nuestra aplicación para Android, vamos a tener MUY en cuenta la guía de diseño que propone Google. Pueden verse los patrones de diseño escogidos y guidelines adoptados en el siguiente [enlace...](P3/README.md)
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
