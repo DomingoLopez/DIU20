@@ -3,9 +3,9 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU2_ECHO.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: FLATS & GO
 
-Descripción: 
+Descripción: FLATS&GO es una propuesta de diseño para una plataforma de economía colaborativa de alquiler de habitaciones y viviendas. Se ha desarrollado llevando a cabo técnicas actuales de *Design Thinking* y pretende mejorar ciertos aspectos de las aplicaciones actuales de ésta temática para aportar más valor al producto. Está pensada para desarrollarse sobre plataformas móviles (Inicialmente Android), por lo que se han seguido directrices de diseño aportadas por la propia Google.
 
 Logotipo: 
 
@@ -15,7 +15,7 @@ Miembros
 
 ----- 
 
-En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
+En éste proyecto desarrollaremos una propuesta de diseño basada en una plataforma de economía colaborativa, centrada en el alquiler de habitaciones y viviendas. El objetivo será usar herramientas de *Design Thinking* entre otras, para obtener un producto final que tenga valor y nos sirva como referencia en el futuro para otros proyectos. Todo ello se irá elaborando durante diversos puntos, los cuales formarán en conjunto un *UX-Case Study* de nuestra aplicación. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
 
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
@@ -73,7 +73,7 @@ Revisión de Usabilidad: HABITOOM
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-De cara a realizar un mejor diseño del estudiado en la P1, hemos de empezar realizando una malla receptora de información (feedback capture grid), en la que vamos a obtener un *feedback* sobre el diseño analizado, así como lanzar nuevas propuestas e ideas para el desarrollo de los bocetos de nuestra App. 
+De cara a realizar un mejor diseño del estudiado en el punto anterior, hemos de empezar realizando una malla receptora de información (feedback capture grid), en la que vamos a obtener un *feedback* sobre el diseño analizado, así como lanzar nuevas propuestas e ideas para el desarrollo de los bocetos de nuestra App. 
 
 
 Puede verse el desarrollo de ésta sección con más profundidad en el siguiente [enlace...](P2/README.md)
