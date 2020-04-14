@@ -16,7 +16,7 @@ Además, viajaron a Hyde Park para ver cómo la gente interactuaba con el arte u
 
 Siguiendo con el análisis, podemos destacar los siguientes puntos en común entre nuestra propuesta y la de MuseMap:
 
-- [x] Creación de tabla de __análisis de la competencia__. (La nuestra menos elaborada que la de MuseMap)
+- [x] Creación de tabla de _análisis de la competencia_. (La nuestra menos elaborada que la de MuseMap)
 - [ ] Mapa de empatía para saber qué puntos son clave para las personas, dado que ellos realizaron entrevistas de a pie con diversos individuos para crear personas afines para realizar el posterior Journey Map.
 - [ ] Mapa de afinidad
 
