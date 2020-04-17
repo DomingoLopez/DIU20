@@ -117,8 +117,11 @@ Por tanto, en ésta sección nos disponemos al análisis del UX-Case Study de la
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
+<img src="/img/FLATS&GO.jpeg" width="150" />&nbsp;
 
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Para llevar a cabo el diseño del logotipo hemos usado Photoshop con una resolución inicial de 798x661 píxeles. El diseño en "círculo" permite la reutilización del logo en muchas plataformas (como Twitter) que la imagen del usuario se ve enmarcada en dicho círculo.
+
+En caso de que la resolución excediera el límite permitido en la plataforma que hiciera uso de él, siempre se podría modificar.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
