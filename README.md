@@ -9,7 +9,7 @@ Descripción: FLATS&GO es una propuesta de diseño para una plataforma de econom
 
 Logotipo: 
 
-<img src="/img/FLATS&GO.jpeg" width="100" />&nbsp;
+<img src="/img/FLATS&GO.jpeg" width="150" />&nbsp;
 
 Miembros
  * :bust_in_silhouette:  Manuel Pancorbo Castro    :octocat: [manuelpcastro](https://github.com/manuelpcastro)
