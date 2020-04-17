@@ -119,7 +119,7 @@ Por tanto, en ésta sección nos disponemos al análisis del UX-Case Study de la
 
 <img src="/img/FLATS&GO.jpeg" width="150" />&nbsp;
 
-Para llevar a cabo el diseño del logotipo hemos usado Photoshop con una resolución inicial de 798x661 píxeles. El diseño en "círculo" permite la reutilización del logo en muchas plataformas (como Twitter) que la imagen del usuario se ve enmarcada en dicho círculo.
+Para llevar a cabo el diseño del logotipo hemos usado Photoshop con una resolución inicial de 798x661 píxeles (Aunque aquí se ha encogido un poco para no saturar la página). El diseño en "círculo" permite la reutilización del logo en muchas plataformas (como Twitter) que la imagen del usuario se ve enmarcada en dicho círculo.
 
 En caso de que la resolución excediera el límite permitido en la plataforma que hiciera uso de él, siempre se podría modificar.
 
