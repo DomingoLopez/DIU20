@@ -36,7 +36,8 @@ Las aplicaciones o servicios seleccionados para realizar el estudio de usabilida
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-Se han diseñado dos personas:  
+De cara a realizar una revisión de usabilidad sobre la plataforma estudiada, se han creado dos personas:  
+
 [Luis, de 23 años de edad, estudiante](P1/personas-journey/personaluis.png)  
 [Jose Antonio, de 45 años de edad, comercial inmobiliario](P1/personas-journey/personajose.png)  
 
@@ -46,8 +47,7 @@ Se han diseñado dos personas:
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-
-Se ha diseñado un Journey Map para cada persona:  
+Para poder obtener una revisión de usabilidad satisfactoria y real, hemos de poner a las personas creadas anteriormente a usar la plataforma analizada, con lo que obtenemos unos "Journey Maps" de dichas personas:  
 
 [Journey Map de Luis Fernández](P1/personas-journey/journeyluis.png)  
 [Journey Map de Jose Antonio Carrasco](P1/personas-journey/journeyjose1.png)  
