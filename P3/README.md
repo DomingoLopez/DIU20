@@ -44,19 +44,59 @@ Indicar que se podrían añadir herramientas como __Feature Prioritisation__ y s
 
 ## Propuesta de elementos de diseño o patrones a usar  
 
+FLATS & GO tiene una clara línea minimalista, su iconografía y menús lo desvelan a primera vista.
+
+La interfaz debe ser agradable y el texto fácilmente legible. Hemos decidido usar como fuente, tras buscar y probar con diferentes tipos de Google Fonts, Manrope. 
+Además, nos hemos inclinado por un diseño claro, con colores amigables como un azul claro y el blanco. Queremos facilitar al usuario la navegación y que se sienta cómodo usando nuestra aplicación. 
+
+<img src="/img/pantallaColores.png"/>&nbsp;
+
+Aparte de esto, debemos tener en cuenta la guía de [buenas prácticas de Google](https://www.thinkwithgoogle.com/intl/es-419/recursos-y-herramientas/aplicaciones/principles-of-mobile-app-design-download-complete-guide/). Algunos de los principios de diseño de los que dispone la aplicación:
 
 
+1. NAVEGACIÓN
+        
+	a. Retroceder en un paso: el usuario puede equivocarse al rellenar el formulario o puede cambiar de intención, por eso, se le permitirá volver hacia atrás. Por ejemplo: retroceder en “Tu agente inmobiliario”.
 
-2-
-Investigar sobre las guidelines de google si vamos a hacer nuestra app en android
-Ejemplo:
-	¿Qué tipografía usar?
-	¿Donde ponemos el botón de cancelar, a izquierda o derecha?
-	Ver la guía en pdf de google descargada sobre buenas prácticas de diseño.
-	Así como el otro enlace
 
-	Una vez analizado decir cuales són nuestras decisiones de cara a hacer un diseño HIGHFI,
-	no es necesario crear el diseño, simplemente decir qué decisiones vamos a tomar
+	b. Cambiar ubicación: es el usuario el que debe elegir el lugar de búsqueda, es por eso que la opción principal en la aplicación es introducir la zona que desea y como segunda opción usar la ubicación actual. Por ejemplo: seleccionar área en “Viviendas por zona”.
+
+
+2. BÚSQUEDA 
+
+	a. Filtros y ordenación: la aplicación cuenta con un amplio conjunto de filtros disponibles. El sistema de ordenación de búsqueda contiene las opciones usuales. Por ejemplo: filtros en “Búsqueda avanzada”.
+
+
+	b. Búsquedas anteriores: no debemos obligar al usuario a volver a realizar una búsqueda que ya había hecho. Nuestro sistema le permite guardar una vivienda en la que se encuentra interesado para ver más tarde.
+
+
+3. COMERCIO
+
+	a. Ver y filtrar opiniones: cada vivienda tiene un conjunto de comentarios que se pueden ver en su página, podemos ordenarlos por tiempo, mejores valoraciones, ascendente o descendentemente.
+
+
+4. REGISTRO
+
+	a. Utilidad previa la registro: no es necesario tener una cuenta o estar conectado para usar la aplicación, si no que en el momento de guardar un piso en el que estamos interesado o de comunicarnos con el propietario es cuando es obligatorio el registro/login.
+
+
+	b. Diferenciar registro y acceso: puede dar pie a dudas en el momento de iniciar o registrarse, por lo que el formulario correspondiente marcará claramente cuál es la acción que está realizando el usuario.
+
+
+5. FORMULARIOS
+
+	a. Facilidad para ingresar datos: nuestros formularios son simples y claros. 
+
+
+6. USABILIDAD
+
+	a. Vocabulario sencillo: nuestros menús están etiquetados con textos cortos y claros, con verbos acordes a una aplicación.
+
+
+	b. Etiquetas de texto y teclas visuales: toda nuestra interfaz contiene iconos y texto para que la información visual ofrecida sea lo más clara e intuitiva posible.
+
+
+	c. Permisos: la aplicación solo solicitará permisos cuando sea necesario. Ejemplos: ubicación cuando solicite buscar por su propia ubicación, contenidos de la galería cuando quiera incluir imágenes a una vivienda en venta.
 
 ## Historia en Video del UX Case Study
 
