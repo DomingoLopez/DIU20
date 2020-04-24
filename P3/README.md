@@ -49,7 +49,7 @@ FLATS & GO tiene una clara línea minimalista, su iconografía y menús lo desve
 La interfaz debe ser agradable y el texto fácilmente legible. Hemos decidido usar como fuente, tras buscar y probar con diferentes tipos de Google Fonts, Manrope. 
 Además, nos hemos inclinado por un diseño claro, con colores amigables como un azul claro y el blanco. Queremos facilitar al usuario la navegación y que se sienta cómodo usando nuestra aplicación. 
 
-<img src="/img/pantallaColores.png"/>&nbsp;
+<img src="/img/coloresytipografia.png"/>&nbsp;
 
 Aparte de esto, debemos tener en cuenta la guía de [buenas prácticas de Google](https://www.thinkwithgoogle.com/intl/es-419/recursos-y-herramientas/aplicaciones/principles-of-mobile-app-design-download-complete-guide/). Algunos de los principios de diseño de los que dispone la aplicación:
 
