@@ -132,8 +132,17 @@ Para poder realizar un buen diseño para nuestro __producto final__, hemos de se
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Hemos documentado todo el proceso de diseño realizado para nuestra App en un vídeo, que puede ser descargado desde el siguiente [enlace...](https:#)
  
+
+![Método UX](img/mockup.png)  3.e Valoración personal del equipo
+----
+
+Ésta parte del proyecto ha sido de especial interés, debido a que al comparar nuestro proceso de diseño con otro ejemplo real (Muse Map), hemos podido comprobar que las técnicas de diseño y *Design Thinking* que hemos usado no van desencaminadas a la hora de abordar una propuesta real. 
+
+Además, el diseño y descripción de las Guidelines nos ha servido para tener una toma de contacto con las directrices que hace Google sobre el desarrollo de Apps en Android. 
+
+Finalmente, el vídeo propuesto creemos que plasma la esencia del proyecto, y lo consideramos dinámico y fluido a pesar de la escasa duración del mismo para realizarlo. 
 
 ## Paso 4. UX Check (Usability Testing) 
 
