@@ -102,6 +102,8 @@ Aparte de esto, debemos tener en cuenta la guía de [buenas prácticas de Google
 
 Hemos documentado todo el proceso de diseño realizado para nuestra App en un vídeo, que puede ser visualizado en el siguiente [enlace](https://www.youtube.com/watch?v=PzR8CXD58Jk)
 
+https://www.youtube.com/watch?v=PzR8CXD58Jk
+
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
