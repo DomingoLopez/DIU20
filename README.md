@@ -134,7 +134,7 @@ Para poder realizar un buen diseño para nuestro __producto final__, hemos de se
 
 Hemos documentado todo el proceso de diseño realizado para nuestra App en un vídeo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PzR8CXD58Jk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[!Video Flats&Go](img/logoblancoazul.png)](https://www.youtube.com/watch?v=PzR8CXD58Jk)
  
 
 ![Método UX](img/mockup.png)  3.e Valoración personal del equipo
