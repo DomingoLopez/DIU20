@@ -132,7 +132,9 @@ Para poder realizar un buen diseño para nuestro __producto final__, hemos de se
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
-Hemos documentado todo el proceso de diseño realizado para nuestra App en un vídeo, que puede ser descargado desde el siguiente [enlace...](https:#)
+Hemos documentado todo el proceso de diseño realizado para nuestra App en un vídeo:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PzR8CXD58Jk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 
 ![Método UX](img/mockup.png)  3.e Valoración personal del equipo
