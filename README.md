@@ -156,6 +156,21 @@ Finalmente, el vídeo propuesto creemos que plasma la esencia del proyecto, y lo
 
 >>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
 
+Nos proponemos a continuación realizar la evaluación de 3 UX Case Study realizados por distintos compañeros.
+
+Las asignaciones vienen descritas en la siguiente tabla:
+
+| Grupo Asignado    | Enlace al repositorio  |
+|-------------------|------------------------|---|---|---|
+| DIU1-AH           | [Enlace al repositorio](https://github.com/antoniohenriques/DIU20)|
+| DIU2-EquipoCohete | [Enlace al repositorio](https://github.com/Leamsy/DIU20)|
+| DIU3-ultraMerino  | [Enlace al repositorio](https://github.com/merino25/DIU20)|
+
+
+En el siguiente [enlace](P4/README.md) se puede obtener más información respecto a las evaluaciones realizadas.
+
+Además, en éste [enlace](P4/) se obtiene acceso a la carpeta donde se encuentran las hojas de cálculo de evaluación de cada equipo.
+
 >>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
 
 
