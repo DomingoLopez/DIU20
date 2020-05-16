@@ -96,7 +96,19 @@ Vamos a elegir a [Jose Antonio, de 45 años de edad, comercial inmobiliario](../
 
 DIU1-AH : Proyecto - CouchSurfing
 
-Jose Antonio 
+Dado que no se adjuntan wireframes ni mallas receptoras de información. Sólo podemos hacer un User Map Experience de la web CouchSurfing sobre la que se basa el proyecto.
+
+Jose Antonio quiere despejar la mente y conocer lugares nuevos así como participar en eventos sociales, por lo que decide navegar en internet para poder hospedarse en la casa de algún anfitrión en Bilbao. 
+
+Utiliza la App de CouchSurfing para tal propósito.
+
+A pesar de que el diseño de la app es acertado, a Jose Antonio le cuesta navegar por la misma, y debe estar un tiempo estudiando los filtros de de búsqueda para poder hacerse a ella.
+
+Busca por ciudad "Bilbao". Aparecen distintos alojamientos disponibles. 
+
+Se decide por uno que le atrae, pero al no tener la App la posibilidad de ver la localización exacta utilizando algún tipo de servicio de mapas, no se atrave a dar el paso de reservar. 
+
+Le produce una experiencia negativa el uso de la app, por lo que decide que quizás deba dejar de pensar en hacer planes de ocio y centrarse en su plan de vida, ahorrar para montar su tienda de motocicletas.
 
 
 ### Describe la experiencia 2

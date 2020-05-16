@@ -183,10 +183,15 @@ Puede verse el informe completo en el siguiente [enlace...](P4/README.md)
 ![Método UX](img/Survey.png). 4.c Ranking 
 ----
 
->>> Concluya con un ranking de los casos evaluados 
+La realización de éste análisis de los UX Case Stuy otros equipos ha sido bastante interesante. Hemos tenido experiencias tanto positivas como negativas. 
 
->>> Valoración personal 
+Podemos concluir con un ranking final de los casos evaluados:
 
+1. DIU3.ultraMerino: 85
+2. DIU2.EquipoCohete: 80
+3. DIU1.AH: 60
+
+Puede ver las conslusiones completas y el ranking en el siguiente [enlace...](P4/README.md)
 
 ## Paso 5. Evaluación de Accesibilidad  
 
