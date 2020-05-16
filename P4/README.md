@@ -147,6 +147,12 @@ Jose Antonio va ese día al evento, y decide mantener la app instalada en su dis
 
 
 
+### Conclusiones del User Testing:
+
+Usando a nuestra persona ficticia "Jose Antonio", hemos podido comprobar que en los últimos dos casos estudiados, aunque con diferencias, han permitido a la persona pasar por todos los estados de uso de la app, desde el acceso inicial hasta el uso y satisfacción del servicio final. 
+
+En cambio, en el primer caso y debido a que la información del repositorio no estaba del todo completa, la experiencia de la persona ha sido negativa. 
+
 ## Conclusiones
 
 
@@ -155,7 +161,7 @@ La realización de éste análisis de los UX Case Stuy otros equipos ha sido bas
 Nos ha sorprendido el nivel de detalle de algunas secciones que han desarrollado nuestros compañeros. 
 Por ejemplo, el análisis de la competencia del equipo DIU2-EquipoCohete es muy detallado, así como el análisis de MuseMap y los Guidelines desarrollados por el equipo DIU3-ultraMerino. En cuanto a DIU1-AH nos ha faltado un poco de material en el repositorio para poder evaluarlo correctamente. A pesar de ello hemos intentado realizar el análisis siguiendo el mismo esquema que para los otros equipos.
 
-Como valoración personal creemos que los tres equipos cumplen las expectativas de forma general, aunque también hemos de decir que a nuestro parecer hay puntos que se podían haber desarrollado más, como en el caso de DIU2-Equipo cohete, darle más valor a la propuesta en cuanto a funcionalidad de la aplicación (búsquedas avanzadas, etc) y en el caso de DIU3-ultraMerino realizar más WireFrames para tener una idea más aproximada del producto final. En el caso de DIU1-AH faltan los Wireframes y Guidelines. 
+Como valoración personal creemos que dos de los tres equipos cumplen las expectativas de forma general, aunque también hemos de decir que a nuestro parecer hay puntos que se podían haber desarrollado más, como en el caso de DIU2-Equipo cohete, darle más valor a la propuesta en cuanto a funcionalidad de la aplicación (búsquedas avanzadas, etc) y en el caso de DIU3-ultraMerino realizar más WireFrames para tener una idea más aproximada del producto final. En el caso de DIU1-AH faltan los Wireframes y Guidelines, así como una malla receptora de información y diversa información complementaria. 
 
 Podemos concluir con un ranking final de los casos evaluados:
 
