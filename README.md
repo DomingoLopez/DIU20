@@ -175,7 +175,9 @@ Además, en éste [enlace](P4/) se obtiene acceso a la carpeta donde se encuentr
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+Para realizar el User Testing de las aplicaciones creadas por nuestro compañeros, vamos a describir las acciones y pasos que realizaría una de nuestras personas ficticias creadas anteriormente. Obtendremos así una especie de Mapa de Experiencia de usuario con las distintas situaciones por las que pasa nuestras persona.
+
+Puede verse el informe completo en el siguiente [enlace...](P4/README.md)
 
 
 ![Método UX](img/Survey.png). 4.c Ranking 

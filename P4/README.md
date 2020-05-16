@@ -29,9 +29,11 @@ Descripcion y hoja de valoración.
 
 ### Describe la experiencia 1
 
-	Describe la experiencia 2
 
-	Describe la experiencia 3
+
+### Describe la experiencia 2
+
+### Describe la experiencia 3
 
 
 ## Conclusiones
