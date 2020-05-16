@@ -29,7 +29,7 @@ Descripcion y hoja de valoración.
 
 Para realizar el User Testing de las aplicaciones creadas por nuestro compañeros, vamos a describir las acciones y pasos que realizaría una de nuestras personas ficticias creadas anteriormente. Obtendremos así una especie de Mapa de Experiencia de usuario con las distintas situaciones por las que pasa nuestras persona.
 
-Vamos a elegir a [Jose Antonio, de 45 años de edad, comercial inmobiliario](./P1/personas-journey/personajose.png)  
+Vamos a elegir a [Jose Antonio, de 45 años de edad, comercial inmobiliario](../P1/personas-journey/personajose.png)  
 
 
 ### Describe la experiencia 1
