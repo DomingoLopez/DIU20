@@ -27,6 +27,11 @@ Descripcion y hoja de valoración.
 
 ## User Testing
 
+Para realizar el User Testing de las aplicaciones creadas por nuestro compañeros, vamos a describir las acciones y pasos que realizaría una de nuestras personas ficticias creadas anteriormente. Obtendremos así una especie de Mapa de Experiencia de usuario con las distintas situaciones por las que pasa nuestras persona.
+
+Vamos a elegir a 
+
+
 ### Describe la experiencia 1
 
 
