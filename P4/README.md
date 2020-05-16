@@ -54,7 +54,7 @@ A pesar de no poder realizar búsquedas avanzadas, y tras bastantes anuncios de 
 
 Finalmente Jose Antonio recibe una llamada de su posible nuevo casero, y quedan para ver el piso y concretar. 
 
-Jose Antonio finalmente consigue empezar a viviar en un piso compartido por un buen precio, pero ha tardado bastante en encontrarlo debido a la escasez de búsquedas personalizadas en la aplicación. 
+Jose Antonio empieza a vivir en un piso compartido por un buen precio, pero ha tardado bastante en encontrarlo debido a la escasez de búsquedas personalizadas en la aplicación. 
 
 Posiblemente Jose Antonio no vuelva a utilizar la aplicación, ó buscará alternativas si tiene que volver a buscar piso. 
 
