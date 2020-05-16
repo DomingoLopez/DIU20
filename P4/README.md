@@ -34,7 +34,7 @@ Puntos débiles:
 
 Han recibido una puntuación de 60.
 
-[Revisión completa] (./DIU1.AH-review.pdf)
+[Revisión completa](./DIU1.AH-review.pdf)
 
 ## Caso 2
 
@@ -59,7 +59,7 @@ Puntos débiles:
 
 Han recibido una puntuación de 80.
 
-[Revisión completa] (./DIU2.EquipoCohete-review.pdf)
+[Revisión completa](./DIU2.EquipoCohete-review.pdf)
 
 ## Caso 3
 
@@ -83,7 +83,7 @@ Puntos débiles:
     
 Han recibido una puntuación de 85. 
 
-[Revisión completa] (./DIU2.EquipoCohete-review.pdf)
+[Revisión completa](./DIU2.EquipoCohete-review.pdf)
 
 ## User Testing
 
