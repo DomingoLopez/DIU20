@@ -63,9 +63,22 @@ Posiblemente Jose Antonio no vuelva a utilizar la aplicación, ó buscará alter
 
 DIU3-ultraMerino : Proyecto - OCIUS
 
+Jose Antonio tiene un círculo de amigos discreto, pero sabe que debe abstraerse del trabajo y empezar a forjar nuevas amistades. Al no conocer a mucha gente, decide usar la aplicación OCIUS que le recomendaron en el trabajo para buscar eventos y actividades con personas afines. 
 
+Jose Antonio utiliza la aplicación, y da gracias de que ésta tenga una búsqueda por palabras clave. Decide buscar "motos" en el buscador, y le aparece una exhibición motera a las afueras de Granada. 
 
+Le surge la duda de si puede llevar su moto o solo es una exhibición. Se pone en contacto con el anfitrion del evento gracias a la herramienta de chat de la aplicación. 
+
+El afitrión le contesta bastante rápido y le anima a llevar su moto, por lo que Jose Antonio acaba convencido y decide pagar el coste de la asistencia. 
+
+Jose Antonio va ese día al evento, y decide mantener la app instalada en su dispositivo. Ha sido efectiva y la tendrá en cuenta para poder reservar otros eventos en el futuro.
 
 
 
 ## Conclusiones
+
+
+
+
+
+
