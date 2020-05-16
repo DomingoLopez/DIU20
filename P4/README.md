@@ -27,7 +27,7 @@ Descripcion y hoja de valoración.
 
 ## User Testing
 
-	<ins>Describe la experiencia 1</ins>
+#Describe la experiencia 1
 
 	Describe la experiencia 2
 
