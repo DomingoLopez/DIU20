@@ -34,11 +34,38 @@ Vamos a elegir a [Jose Antonio, de 45 años de edad, comercial inmobiliario](../
 
 ### Describe la experiencia 1
 
+DIU1-AH : Proyecto - CouchSurfing
+
+Jose Antonio 
 
 
 ### Describe la experiencia 2
 
+
+DIU2-EquipoCohete : Proyecto - Badadi
+
+Jose Antonio es una persona exigente en cuanto a vivir en un piso de alquiler. Necesita encontrar un piso económico en el que vivir para poder ahorrar para montar su propia tienda de motos.
+
+Al hacer uso de Badadi, no encuentra una página de búsqueda con filtros clara, lo que dificulta el hacer búsquedas avanzadas. 
+
+Jose Antonio intenta navegar por la aplicación, pero le resulta difícil hacer uso del menú inferior, dado que está acostumbrado a usar aplicaciones nativas de Google, en las que la mayoría tienen el menú en la barra superior ó barra lateral.
+
+A pesar de no poder realizar búsquedas avanzadas, y tras bastantes anuncios de pisos mirados, Jose Antonio consigue localizar un piso que parece interesante y solicita alquilar un piso. Le gusta que la aplicación muestre la información sobre pagos seguros. Le da bastante seguridad.
+
+Finalmente Jose Antonio recibe una llamada de su posible nuevo casero, y quedan para ver el piso y concretar. 
+
+Jose Antonio finalmente consigue empezar a viviar en un piso compartido por un buen precio, pero ha tardado bastante en encontrarlo debido a la escasez de búsquedas personalizadas en la aplicación. 
+
+Posiblemente Jose Antonio no vuelva a utilizar la aplicación, ó buscará alternativas si tiene que volver a buscar piso. 
+
+
 ### Describe la experiencia 3
+
+DIU3-ultraMerino : Proyecto - OCIUS
+
+
+
+
 
 
 ## Conclusiones
