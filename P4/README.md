@@ -13,17 +13,77 @@ Grupos asignados:
 
 ## Caso 1
 
-Descripcion y hoja de valoración.    
+El equipo AH pertenece al grupo 1 de prácticas. El equipo está integrado por el compañero António Francisco Oliveira Henriques. Su objetivo era ofrecer un servicio innovador de compartir viaje, buscar compañeros y lugares, etc.   
 
+Puntos fuertes:
+
+	Las personas están bastante bien, el único fallo quizás sería indicar que uno de los objetivos de una persona es utilizar la aplicación que estaba evaluando.
+
+	Los journey representan correctamente una experiencia en el uso de la aplicación y en estos se les presenta un problema.
+
+	Plantear una mejora sobre el servicio estudiado.
+
+Puntos débiles:
+
+	El vídeo no trata la totalidad de las prácticas
+
+	La documentación es escasa, faltan archivos.
+
+	Faltan propuestas claras y bocetos, no hay un diseño de una nueva aplicación.
+
+
+Han recibido una puntuación de 60.
+
+[Revisión completa] (./DIU1.AH-review.pdf)
 
 ## Caso 2
 
-Descripcion y hoja de valoración.  
+El equipo EquipoCohete pertenece al grupo 2 de prácticas. El equipo está integrado por los compañeros Ismael Moyano Romero y Manuel Ariza Ortiz. Su objetivo era ofrecer un servicio innovador de compartir alojamiento, buscar pisos para estudiantes, etc.  
 
+Puntos fuertes:
+
+	El análisis de competencia es muy completo y ofrece una visión rápido de las cualidades de cada servicio.
+	
+	Las personas están muy bien creadas, son útiles para usar en cualquier otro producto.
+
+	El logotipo representa correctamente para qué sirve y sobre qué va la aplicación.
+
+
+Puntos débiles:
+
+	Presentación y descripción del grupo y de la aplicación inexistente
+
+	Según el vídeo, la mayoría de la aplicación está demasiado basada en la analizada en la P1.
+
+	El sitemap es un poco confuso, para hablar con un propietario que ya he contactado, ¿hay que pasar por el buscador, iniciar sesión y volver a buscar el piso?
+
+Han recibido una puntuación de 80.
+
+[Revisión completa] (./DIU2.EquipoCohete-review.pdf)
 
 ## Caso 3
 
-Descripcion y hoja de valoración.   
+El equipo ultraMerino pertenece al grupo 3 de prácticas. El equipo está integrado por los compañeros Carlos Luaces Luaces y Pablo Merino Ávila. Su objetivo era ofrecer un servicio innovador para realizar actividades de ocio en grupo, organizar eventos, etc.  
+
+Puntos fuertes:
+
+	Presentación y descripción del grupo y de la aplicación muy completa.
+
+	La user-task-matrix define adecuadamente los grupos de usuarios que pueden estar interesados en el servicio.
+
+	Los patrones de diseño que han utilizado se encuentran bien explicados.
+
+Puntos débiles:
+
+	El labelling no contiene iconos, que pueden ayudar visualmente a entender la funcionalidad.
+
+	Los bocetos no son del todo claros y pueden confundir (por ejemplo, la sección amigos parece que está un poco desubicada).
+
+	El análisis de competencia no se muestra, no se indica con quién se compara, solo se enseña el servicio elegido para analizar en profundidad.
+    
+Han recibido una puntuación de 85. 
+
+[Revisión completa] (./DIU2.EquipoCohete-review.pdf)
 
 ## User Testing
 
@@ -87,7 +147,9 @@ Como valoración personal creemos que los tres equipos cumplen las expectativas 
 
 Podemos concluir con un ranking final de los casos evaluados:
 
-1. 
+1. DIU3.ultraMerino: 85
+2. DIU2.EquipoCohete: 80
+3. DIU1.AH: 60
 
 
 
