@@ -156,7 +156,7 @@ Finalmente, el vídeo propuesto creemos que plasma la esencia del proyecto, y lo
 
 Nos proponemos a continuación realizar la evaluación de 3 UX Case Study realizados por distintos compañeros.
 
-Las asignaciones vienen descritas en la siguiente tabla:
+Las asignaciones vienen descritas en la siguiente lista:
 
 Grupos asignados:
 

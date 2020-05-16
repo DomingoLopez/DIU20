@@ -1,6 +1,14 @@
 # DIU - Practica 4, entregables
 
-Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
+Nos proponemos a continuación realizar la evaluación de 3 UX Case Study realizados por distintos compañeros.
+
+Las asignaciones vienen descritas en la siguiente lista:
+
+Grupos asignados:
+
+* DIU1-AH : [Enlace al repositorio](https://github.com/antoniohenriques/DIU20)
+* DIU2-EquipoCohete : [Enlace al repositorio](https://github.com/Leamsy/DIU20)
+* DIU3-ultraMerino : [Enlace al repositorio](https://github.com/merino25/DIU20)
 
 
 ## Caso 1
@@ -19,7 +27,7 @@ Descripcion y hoja de valoración.
 
 ## User Testing
 
-	Describe la experiencia 1
+	<ins>Describe la experiencia 1</ins>
 
 	Describe la experiencia 2
 
